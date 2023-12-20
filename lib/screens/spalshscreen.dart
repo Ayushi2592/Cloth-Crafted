@@ -1,7 +1,7 @@
+import 'package:clothcrafted/screens/loginpage.dart';
 import 'package:flutter/material.dart';
-import 'package:google_fonts/google_fonts.dart';
 
-import 'homescreen.dart';
+
 
 void main() {
   runApp(MyApp());
@@ -38,7 +38,7 @@ class MyHomePage extends StatelessWidget {
                 // Text Above Image
                 Text(
                   'Cloth Crafted',
-                  style: GoogleFonts.pacifico(
+                  style: TextStyle(
                     fontSize: 62,
                     fontWeight: FontWeight.bold,
                     color: Colors.black,
@@ -59,7 +59,7 @@ class MyHomePage extends StatelessWidget {
                   // Navigate to the home screen
                   Navigator.push(
                     context,
-                    MaterialPageRoute(builder: (context) => HomeScreen()),
+                    MaterialPageRoute(builder: (context) => LoginPage()),
                   );
                 },
                 child: Container(
@@ -86,5 +86,4 @@ class MyHomePage extends StatelessWidget {
     );
   }
 }
-
 

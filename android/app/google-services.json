@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "39248483311",
+    "project_id": "cloth-crafted",
+    "storage_bucket": "cloth-crafted.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:39248483311:android:f172e10346f369cadd1c1a",
+        "android_client_info": {
+          "package_name": "com.example.clothcrafted"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDB7MoSiBZb6KW-T348wr63GJnllQ9IKGY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
