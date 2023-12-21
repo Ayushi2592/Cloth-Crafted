@@ -1,16 +1,3 @@
 # clothcrafted
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+I've developed a project to address the widespread issue of textile waste globally. The primary objective of my app is to facilitate a connection between individuals in need and those with surplus clothing. Within the framework of my project, anyone with the desire to donate clothing to those in need can easily do so by completing a straightforward donation form on the application. The responsible NGOs associated with the initiative will then take charge of collecting the donated clothing and ensuring its distribution to those in need. This streamlined process not only encourages generous contributions but also ensures an efficient and impactful management of textile waste on a global scale.
